@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="/files/cv.pdf" target="_blank">Download CV (PDF)</a></p>
+<p><a href="/files/Dongmin_Choi_CV_250717.pdf" target="_blank">Download CV (PDF)</a></p>
 
 <br>
 
