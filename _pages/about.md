@@ -12,7 +12,7 @@ redirect_from:
 
 ## Summary
 
-I am a graduate student in Data Science at Seoul National University, researching value alignment in LLMs under [Professor Yohan Jo](https://yohanjo.github.io/). Currently, I'm particularly interested in two areas: assessing values in LLMs and reasoning in LLMs. I believe that aligning language models with specific value systems is a crucial first step toward building personalized AI systems.
+I am a graduate student in Data Science at Seoul National University, researching value alignment in LLMs under [Prof. Yohan Jo](https://yohanjo.github.io/). Currently, I'm particularly interested in two areas: assessing values in LLMs and reasoning in LLMs. I believe that aligning language models with specific value systems is a crucial first step toward building personalized AI systems.
 
 ## Research Interests
 
