@@ -9,28 +9,15 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<br>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p><strong>Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items</strong> <a href="https://arxiv.org/">[arXiv]</a><br>
+Jongwook Han*, Dongmin Choi*, Woojung Song*, Eun-Ju Lee, Yohan Jo<br>
+<em>Accepted to ACL 2025 Main</em></p>
+
+<p><strong>PVP: An Image Dataset for Personalized Visual Persuasion with Persuasiveness Ratings, Persuasion Strategies, and Viewer Characteristics</strong> <a href="https://arxiv.org/">[arXiv]</a><br>
+Junseo Kim, Jongwook Han, Dongmin Choi, Jongwook Yoon, Eun-Ju Lee, Yohan Jo<br>
+<em>Accepted to ACL 2025 Main</em></p>
 
 
 

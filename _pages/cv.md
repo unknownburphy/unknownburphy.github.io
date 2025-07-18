@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="/files/cv.pdf" target="_blank">Download CV (PDF)</a></p>
+
+<br>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Seoul National University, 2024-Present
+* B.S. in [Your Previous Degree], [Your Previous University], [Year]
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024-Present: Graduate Research Assistant
+  * Seoul National University
+  * Research focus: Value alignment in LLMs
+  * Supervisor: Professor Yohan Jo
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items
+  * Jongwook Han*, Dongmin Choi*, Woojung Song*, Eun-Ju Lee, Yohan Jo
+  * Accepted to ACL 2025 Main
+
+* PVP: An Image Dataset for Personalized Visual Persuasion with Persuasiveness Ratings, Persuasion Strategies, and Viewer Characteristics
+  * Junseo Kim, Jongwook Han, Dongmin Choi, Jongwook Yoon, Eun-Ju Lee, Yohan Jo
+  * Accepted to ACL 2025 Main
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine Learning & NLP
+* Large Language Models
+* Value Alignment Research
+* Python, PyTorch
+* Data Science & Analysis
