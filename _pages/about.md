@@ -1,6 +1,7 @@
 ---
+layout: archive
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +22,7 @@ I am a graduate student in Data Science at Seoul National University, researchin
 
 **Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items** [[arXiv](https://arxiv.org/abs/2505.01015)]  
 Jongwook Han*, ***Dongmin Choi***, Woojung Song*, Eun-Ju Lee, Yohan Jo  
-[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025, *Equal Contributions
+[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025, \*Equal Contributions
 
 **PVP: An Image Dataset for Personalized Visual Persuasion with Persuasiveness Ratings, Persuasion Strategies, and Viewer Characteristics** [[arXiv](https://arxiv.org/abs/2506.00481)]  
 Junseo Kim, Jongwook Han, ***Dongmin Choi***, Jongwook Yoon, Eun-Ju Lee, Yohan Jo  
