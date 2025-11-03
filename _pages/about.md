@@ -29,3 +29,13 @@ Jongwook Han\*, <strong><em>Dongmin Choi</em></strong>\*, Woojung Song\*, Eun-Ju
 **PVP: An Image Dataset for Personalized Visual Persuasion with Persuasiveness Ratings, Persuasion Strategies, and Viewer Characteristics** [[arXiv](https://arxiv.org/abs/2506.00481)]  
 Junseo Kim, Jongwook Han, ***Dongmin Choi***, Jongwook Yoon, Eun-Ju Lee, Yohan Jo  
 [ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025
+
+### Preprints
+
+**Established Psychometric vs. Ecologically Valid Questionnaires: Rethinking Psychological Assessments in Large Language Models** [[arXiv](https://arxiv.org/abs/2509.10078)]  
+Dongmin Choi, Woojung Song, Jongwook Han, Eun-Ju Lee, Yohan Jo  
+Under Review at TACL, 2025
+
+**Future Policy Aware Preference Learning for Mathematical Reasoning** [[arXiv](https://arxiv.org/abs/2509.19893)]  
+Minjae Oh, Yunho Choi, Dongmin Choi, Yohan Jo  
+Under Review at ICLR 2026, 2025
