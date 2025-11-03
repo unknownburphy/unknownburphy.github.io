@@ -34,8 +34,8 @@ Junseo Kim, Jongwook Han, ***Dongmin Choi***, Jongwook Yoon, Eun-Ju Lee, Yohan J
 
 **Established Psychometric vs. Ecologically Valid Questionnaires: Rethinking Psychological Assessments in Large Language Models** [[arXiv](https://arxiv.org/abs/2509.10078)]  
 Dongmin Choi, Woojung Song, Jongwook Han, Eun-Ju Lee, Yohan Jo  
-Under Review at TACL, 2025
+Under Review at TACL
 
 **Future Policy Aware Preference Learning for Mathematical Reasoning** [[arXiv](https://arxiv.org/abs/2509.19893)]  
 Minjae Oh, Yunho Choi, Dongmin Choi, Yohan Jo  
-Under Review at ICLR 2026, 2025
+Under Review at ICLR 2026
