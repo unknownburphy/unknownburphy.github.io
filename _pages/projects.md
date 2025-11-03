@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+## MCP-based Financial Q&A System
+**Nov 2024**
+* Led idea development and overall project management
+* Implemented logic for selecting and invoking appropriate tools based on user queries using MCP and ReAct prompting
+* Built web demo using Streamlit
+* **Tools Used:** MCP, Streamlit, LangChain, Python
+
+## Emotional Support Model with Targeted Data Augmentation
+**Oct 2024**
+* Implemented pipeline for epoch-wise performance evaluation by topic and selective synthetic data augmentation
+* Achieved comparable or superior performance using only 17% of synthetic data compared to full dataset usage
+
 ## Voice Lecture Summary Service
 **July 2023 – Aug 2023**
 * Developed a service that summarizes lecture videos and generates slide notes after splitting content

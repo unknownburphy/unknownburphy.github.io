@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="/files/Dongmin_Choi_CV_250717.pdf" download="Dongmin_Choi_CV.pdf" target="_blank">Download CV (PDF)</a></p>
+<p><a href="/files/Dongmin_Choi_CV_251103.pdf" download="Dongmin_Choi_CV.pdf" target="_blank">Download CV (PDF)</a></p>
 
 <br>
 
@@ -34,6 +34,16 @@ Publications
 * **PVP: An Image Dataset for Personalized Visual Persuasion with Persuasiveness Ratings, Persuasion Strategies, and Viewer Characteristics** [[arXiv](https://arxiv.org/abs/2506.00481)]
   * Junseo Kim, Jongwook Han, **Dongmin Choi**, Jongwook Yoon, Eun-Ju Lee, Yohan Jo
   * [ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025
+
+Preprints
+------
+* **Established Psychometric vs. Ecologically Valid Questionnaires: Rethinking Psychological Assessments in Large Language Models**
+  * Dongmin Choi, Woojung Song, Jongwook Han, Eun-Ju Lee, Yohan Jo
+  * Under Review at TACL, 2025
+
+* **Future Policy Aware Preference Learning for Mathematical Reasoning**
+  * Minjae Oh, Yunho Choi, Dongmin Choi, Yohan Jo
+  * Under Review at ICLR 2026, 2025
 
 Skills
 ======
